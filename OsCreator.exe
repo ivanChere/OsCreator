@@ -5,6 +5,7 @@ os create
 png\src
 xml=oscreator.VisualElementsMamifest.xml
 
+os shell \src\os\
 desigen=\src\png
 
 create iso
