@@ -1,0 +1,22 @@
+<xml version 1.0 lang=ru>
+oscreator color #ffffff
+<setup="Добро пожаловать">
+<"Сосдать ОС">
+<"Или выбрать сужествуешю">
+
+
+<select 1>
+<"\<div/>Веберете имя для вашей ОС"\<div/>
+html(textarea)
+
+name=
+<"\<div/>Веберете опесание для вашей ОС"\<div/>
+html(textarea)
+
+<"\<div/>Веберете папку для ОС"\<div/>
+files
+
+all
+Wihte True;
+load OsCreator
+White OS;

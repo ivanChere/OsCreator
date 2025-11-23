@@ -1,0 +1,12 @@
+program
+info=OsCreator.dll
+OsCreator
+os create
+png\src
+xml=oscreator.VisualElementsMamifest.xml
+
+desigen=\src\png
+
+create iso
+White True;
+iso
