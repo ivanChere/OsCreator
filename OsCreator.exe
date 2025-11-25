@@ -1,13 +1,16 @@
 program
-info=OsCreator.dll
+info=info.java
 OsCreator
 os create
+init=
 png\src
 xml=oscreator.VisualElementsMamifest.xml
 
 os shell \src\os\
 desigen=\src\png
 
-create iso
-White True;
-iso
+langs=OSlang.dll
+
+blank obejct(640 x 480) color #ffffff
+(create file=OSlang.dll)
+//Ооо
