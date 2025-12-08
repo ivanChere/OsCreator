@@ -1,4 +1,4 @@
-malefile
+makefile
 
 project
 name=OsCreator

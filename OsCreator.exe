@@ -1,5 +1,5 @@
 program
-info=info.java
+info=Makefile
 OsCreator
 os create
 init=
@@ -13,4 +13,5 @@ langs=OSlang.dll
 
 blank obejct(640 x 480) color #ffffff
 (create file=OSlang.dll)
-//Ооо
+
+if create linux linux.bat
